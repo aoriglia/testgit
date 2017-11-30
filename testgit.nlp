@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=testgit
+project.version=6.1
+project.original.version=6.1
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=6.2.1
+project.id=b7498b91-c5c4-4a9d-a0b7-9a0ce570df7f
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=aoriglia/testgit.git
